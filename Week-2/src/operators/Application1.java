@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class Application1 {
 
 	public static void main(String[] args) {
-		// Arithmetical assignment operators (hi)
+		// Arithmetical assignment operators (hi timur)
 		//+=,-=,*=,/=,%=
 		Scanner inputreader = new Scanner(System.in);
 		System.out.println("Please enter the first number:");
