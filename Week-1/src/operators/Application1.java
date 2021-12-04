@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Application1 {
 
 	public static void main(String[] args) {
-		// +,-,/,*,% (remainder)
+		// +,-,/,*,% (remainder) (ruşen has changed)
 		
 		Scanner inputreader = new Scanner(System.in);
 		System.out.println("Enter the first number:");
